@@ -1,6 +1,6 @@
 
 void sort10m2(vector<int> & v)
-{
+{ 
     int n = v.size();
     int i = 0;
     int j = n - 1;
