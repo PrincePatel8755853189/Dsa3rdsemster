@@ -21,7 +21,19 @@ void flip(vector<vector<int>> &v)
             }
         }
     }
+int zero =0;
+int one =0;
+if (zero>one){
+for (int i = 0; i <row; i++)
+{
+   for (int  j = 0; j < coll; ++)
+   {
+    if
+   }
+   
+}
 
+}
 
     return;
 }
