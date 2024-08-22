@@ -69,5 +69,5 @@ int main (){
       neeraj.setIsAlive(true);
        neeraj.sethealth(100);
 
-  cout << addscore(nithesh , neeraj);
+  cout <<   addscore(nithesh , neeraj);
 }
