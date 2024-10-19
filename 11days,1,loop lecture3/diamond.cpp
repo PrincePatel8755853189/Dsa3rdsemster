@@ -28,8 +28,8 @@ int main()
 
         if (i <= n - 1)
             nst += 2;
-        // else
-        //     nst -=2;
+        else
+            nst -=2;
 
         cout << endl;
     }
